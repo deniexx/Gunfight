@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Denis/source/repos/Gunfight/Content/BigFont.spritefont","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/Content/BigFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70690,0.2351268
+"C:/Users/Denis/source/repos/Gunfight/Content/Bullet.png","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/Content/Bullet.xnb","TextureProcessor","Texture2DContent",1804,2389,0.1334313
+"C:/Users/Denis/source/repos/Gunfight/Content/controls.png","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/Content/controls.xnb","TextureProcessor","Texture2DContent",80919,3686485,0.2645702
+"C:/Users/Denis/source/repos/Gunfight/Content/Cowboy.png","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/Content/Cowboy.xnb","TextureProcessor","Texture2DContent",5673,16469,0.1220253
+"C:/Users/Denis/source/repos/Gunfight/Content/Font.spritefont","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70690,0.2245099
+"C:/Users/Denis/source/repos/Gunfight/Content/gunShot.wav","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/Content/gunShot.xnb","SoundEffectProcessor","SoundEffectContent",85418,85353,0.9408799
+"C:/Users/Denis/source/repos/Gunfight/Content/mainmenu.jpg","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/Content/mainmenu.xnb","TextureProcessor","Texture2DContent",972237,3686485,0.2333915
+"C:/Users/Denis/source/repos/Gunfight/Content/papada.mp3","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/Content/papada.xnb","SongProcessor","SongContent",4649515,124,2.299738
+"C:/Users/Denis/source/repos/Gunfight/Content/Revolver.png","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/Content/Revolver.xnb","TextureProcessor","Texture2DContent",2055,14085,0.1229845
+"C:/Users/Denis/source/repos/Gunfight/Content/sand.jpg","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/Content/sand.xnb","TextureProcessor","Texture2DContent",953336,3686485,0.2581855

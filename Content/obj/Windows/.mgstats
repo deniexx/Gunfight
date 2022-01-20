@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Denis/source/repos/Gunfight/Content/BigFont.spritefont","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/BigFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70690,0.2293969
+"C:/Users/Denis/source/repos/Gunfight/Content/Bullet.png","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/Bullet.xnb","TextureProcessor","Texture2DContent",1804,2389,0.0091488
+"C:/Users/Denis/source/repos/Gunfight/Content/controls.png","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/controls.xnb","TextureProcessor","Texture2DContent",80919,3686485,0.1115854
+"C:/Users/Denis/source/repos/Gunfight/Content/Cowboy.png","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/Cowboy.xnb","TextureProcessor","Texture2DContent",5673,16469,0.001859
+"C:/Users/Denis/source/repos/Gunfight/Content/Font.spritefont","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70690,0.0286649
+"C:/Users/Denis/source/repos/Gunfight/Content/gunShot.wav","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/gunShot.xnb","SoundEffectProcessor","SoundEffectContent",85418,85353,0.8723682
+"C:/Users/Denis/source/repos/Gunfight/Content/mainmenu.jpg","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/mainmenu.xnb","TextureProcessor","Texture2DContent",972237,3686485,0.122057
+"C:/Users/Denis/source/repos/Gunfight/Content/papada.mp3","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/papada.xnb","SongProcessor","SongContent",4649515,124,2.2622652
+"C:/Users/Denis/source/repos/Gunfight/Content/Revolver.png","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/Revolver.xnb","TextureProcessor","Texture2DContent",2055,14085,0.0020993
+"C:/Users/Denis/source/repos/Gunfight/Content/sand.jpg","C:/Users/Denis/source/repos/Gunfight/Content/bin/Windows/sand.xnb","TextureProcessor","Texture2DContent",953336,3686485,0.113876
